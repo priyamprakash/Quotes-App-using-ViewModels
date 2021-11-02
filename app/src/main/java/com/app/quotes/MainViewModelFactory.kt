@@ -1,4 +1,4 @@
-package com.cheezycode.quotify
+package com.app.quotes
 
 import android.content.Context
 import androidx.lifecycle.ViewModel

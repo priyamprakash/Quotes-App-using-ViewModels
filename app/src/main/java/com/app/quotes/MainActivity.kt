@@ -6,9 +6,6 @@ import android.os.Bundle
 import android.view.View
 import android.widget.TextView
 import androidx.lifecycle.ViewModelProvider
-import com.cheezycode.quotify.MainViewModel
-import com.cheezycode.quotify.MainViewModelFactory
-import com.cheezycode.quotify.Quote
 
 class MainActivity : AppCompatActivity() {
 
